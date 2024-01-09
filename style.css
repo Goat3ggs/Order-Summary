@@ -1,2 +1,23 @@
+:root {
+    /* Primary Colors */
+    --blue-pclr-200: hsl(225, 100%, 94%);
+    --blue-pclr-500: hsl(245, 75%, 52%);
+
+    /* Neutral Colors */
+    ---blue-nclr-100: hsl(225, 100%, 98%);
+    --blue-nclr-300: hsl(224, 23%, 55%);
+    --blue-nclr-800: hsl(223, 47%, 23%);
+
+    /* Font Size */
+    --fs-para: 1rem;
+
+    /* Font Family */
+    --ff-default: 'Red Hat Display', sans-serif;
+    
+    --fw-regular: 500;
+    --fw-bold: 700;
+    --fw-black: 900;
+}
+
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
