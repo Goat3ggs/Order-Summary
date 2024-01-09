@@ -19,5 +19,33 @@
     --fw-black: 900;
 }
 
+/* html reset */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    font: inherit;
+}
+
+img,
+svg {
+    display: block;
+    max-width: 100%;
+}
+
+p,
+h1 {
+    overflow-wrap: break-word;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    font-family: var(--ff-default);
+}
+
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
