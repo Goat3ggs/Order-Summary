@@ -16,5 +16,5 @@ Users should be able to:
 
 ### Links
 
-[Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-solution-AqWF2xjUoU)
-[Live Page](https://goat3ggs.github.io/Order-Summary/)
+-[Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/order-summary-solution-AqWF2xjUoU)
+-[Live Page](https://goat3ggs.github.io/Order-Summary/)
